@@ -8,21 +8,7 @@ The aim is to pierce through the thick fog of life and eventually reach the dest
 
 # Skills
 
-•	SEO •	Article/Blog Writing • Proof Reading • Digital Marketing
-
-
-
-•	Social Media Management
-
-•	Creative Writing
-
-•	Technical Writing
-
-•	Shopify Content Writing
-
-•	Keyword Analysis
-
-•	Microsoft Excel, PowerPoint Presentations, Word
+•	SEO  • Article/Blog Writing  • Proof Reading  • Digital Marketing  • Social Media Management  •	Creative Writing  •	Technical Writing  •	Shopify Content Writing  •	Keyword Analysis  • Microsoft Excel, PowerPoint Presentations, Word
 # 
 # Work Experience
 # Shopify Content Writer and SEO Analyst @ Spike Fitness

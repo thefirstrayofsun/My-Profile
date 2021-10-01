@@ -7,7 +7,8 @@ I'm right on my toes in order to plunge head first into the sea to trade the wav
 
 The aim is to pierce through the thick fog of life and eventually reach the destination with big toothy grin.
 
-# Resume: https://raw.githubusercontent.com/thefirstrayofsun/Achievements-Certificates/main/Resume%20(2).pdf
+# Resume
+https://raw.githubusercontent.com/thefirstrayofsun/Achievements-Certificates/main/Resume%20(2).pdf
 
 # Skills
 
@@ -31,9 +32,8 @@ The aim is to pierce through the thick fog of life and eventually reach the dest
 
 •	Microsoft Excel, PowerPoint Presentations, Word
 
-
+# Work Experience
 # Shopify Content Writer and SEO Analyst @ Spike Fitness
-
 
 Jul’21-Present, Online
 

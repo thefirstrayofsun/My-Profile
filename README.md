@@ -57,7 +57,7 @@ Jul’21-Present, Online
 
 •	Performed SEO Analysis for Maximizing Traffic to Blogs.
 
-•	Vist my Blogs here (under the Author Name 'Udishi Verma'): https://spikefitness.in/blogs/fitness-blogs
+•	Vist my Blogs here: https://spikefitness.in/blogs/fitness-blogs
 
 
 # Content Writer and Social Media Analyst @ Singh John

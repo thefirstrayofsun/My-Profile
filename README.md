@@ -6,3 +6,76 @@ I'm right on my toes in order to plunge head first into the sea to trade the wav
 
 
 The aim is to pierce through the thick fog of life and eventually reach the destination with big toothy grin.
+
+# Skills
+
+•	SEO
+
+•	Article/Blog Writing
+
+•	Proof Reading
+
+•	Digital Marketing
+
+•	Social Media Management
+
+•	Creative Writing
+
+•	Technical Writing
+
+•	Shopify Content Writing
+
+•	Keyword Analysis
+
+•	Microsoft Excel, PowerPoint Presentations, Word
+
+
+# Shopify Content Writer and SEO Analyst @ Spike Fitness
+
+
+Jul’21-Present, Online
+
+•	Wrote Articles on Fitness Products and Physical Well-being.
+
+
+•	Added Backlinks and Interlinks to Internal and External Websites.
+
+
+•	Performed Keyword Research for each Article
+
+
+•	Worked Dedicatedly under a Team Ensuring Good Quality Content.
+
+
+•	Performed Proof Reading.
+
+
+•	Published Articles on Shopify.
+
+
+•	Performed SEO Analysis for Maximizing Traffic to Blogs.
+
+# Content Writer and Social Media Analyst @ Singh John
+
+
+Jul’20 - Dec’20, Mumbai
+
+•	Wrote Articles on Social Media Marketing and Affiliate Marketing.
+
+
+•	Gave each article innovative thoughts.
+
+
+•	Performed Proof Reading for Quality Standards.
+
+
+•	Worked with MS Office.
+
+
+•	Reviewed Products.
+
+
+•	Backlinks, Keyword Research in Social Media Marketing.
+
+
+

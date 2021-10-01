@@ -8,13 +8,9 @@ The aim is to pierce through the thick fog of life and eventually reach the dest
 
 # Skills
 
-•	SEO
+•	SEO •	Article/Blog Writing • Proof Reading • Digital Marketing
 
-•	Article/Blog Writing
 
-•	Proof Reading
-
-•	Digital Marketing
 
 •	Social Media Management
 

@@ -54,6 +54,8 @@ Jul’20 - Dec’20, Mumbai
 
 •	Backlinks, Keyword Research in Social Media Marketing.
 
+• Letter of Recommendation (LOR): https://raw.githubusercontent.com/thefirstrayofsun/Achievements-Certificates/main/LOR-SinghJohn.jpeg
+
 # Resume Link
 https://raw.githubusercontent.com/thefirstrayofsun/Achievements-Certificates/main/Resume%20(2).pdf
 

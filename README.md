@@ -7,6 +7,8 @@ I'm right on my toes in order to plunge head first into the sea to trade the wav
 
 The aim is to pierce through the thick fog of life and eventually reach the destination with big toothy grin.
 
+# Resume: https://raw.githubusercontent.com/thefirstrayofsun/Achievements-Certificates/main/Resume%20(2).pdf
+
 # Skills
 
 •	SEO
@@ -57,25 +59,17 @@ Jul’21-Present, Online
 
 # Content Writer and Social Media Analyst @ Singh John
 
-
 Jul’20 - Dec’20, Mumbai
 
 •	Wrote Articles on Social Media Marketing and Affiliate Marketing.
 
-
 •	Gave each article innovative thoughts.
-
 
 •	Performed Proof Reading for Quality Standards.
 
-
 •	Worked with MS Office.
-
 
 •	Reviewed Products.
 
-
 •	Backlinks, Keyword Research in Social Media Marketing.
-
-
 

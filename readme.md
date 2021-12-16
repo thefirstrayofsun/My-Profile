@@ -5,10 +5,6 @@ Always "buzzing with thoughts" curious eclectic writer, who further articulates 
 I'm right on my toes in order to plunge head first into the sea to trade the waves of skill sets and talents.
 The aim is to pierce through the thick fog of life and eventually reach the destination with big toothy grin.
 
-# Work Samples
-
-Available at https://github.com/thefirstrayofsun/Achievements-Certificates/blob/main/Previous%20Internships%20and%20Work%20Samples.pdf
-
 # Skills
 
 •	SEO  • Article/Blog Writing  • Proof Reading  • Digital Marketing  • Social Media Management  •	Creative Writing  •	Technical Writing  •	Shopify Content Writing  •	Keyword Analysis  • Microsoft Excel  • PowerPoint Presentations  • MS Word
@@ -61,4 +57,8 @@ Jul’20 - Dec’20, Mumbai
 
 # Resume Link
 https://raw.githubusercontent.com/thefirstrayofsun/Achievements-Certificates/main/Resume%20(2).pdf
+
+
+# Work Samples
+https://github.com/thefirstrayofsun/Achievements-Certificates/blob/main/Previous%20Internships%20and%20Work%20Samples.pdf
 

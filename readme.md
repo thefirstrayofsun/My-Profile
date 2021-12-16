@@ -5,6 +5,9 @@ Always "buzzing with thoughts" curious eclectic writer, who further articulates 
 I'm right on my toes in order to plunge head first into the sea to trade the waves of skill sets and talents.
 The aim is to pierce through the thick fog of life and eventually reach the destination with big toothy grin.
 
+# Work Samples
+
+Available at https://github.com/thefirstrayofsun/Achievements-Certificates/blob/main/Previous%20Internships%20and%20Work%20Samples.pdf
 
 # Skills
 

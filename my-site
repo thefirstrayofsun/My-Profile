@@ -26,7 +26,7 @@ Always "buzzing with thoughts" curious eclectic writer, who further articulates 
 # Portfolio
 
 
-ITEM_1 'Shopify Content Writer and SEO Analyst @ Spike Fitness' 'Jul’21-Present, Online'
+ITEM_START 'Shopify Content Writer and SEO Analyst @ Spike Fitness' 'Jul’21-Present, Online'
 
 • Wrote Articles on Fitness Products and Physical Well-being.
 
@@ -43,8 +43,9 @@ ITEM_1 'Shopify Content Writer and SEO Analyst @ Spike Fitness' 'Jul’21-Presen
 • Performed SEO Analysis for Maximizing Traffic to Blogs.
 
 • Vist my Blogs here: https://spikefitness.in/blogs/fitness-blogs
+ITEM_END
 
-ITEM_2 'Content Writer and Social Media Analyst @ Singh John' 'Jul’20 - Dec’20, Mumbai'
+ITEM_START 'Content Writer and Social Media Analyst @ Singh John' 'Jul’20 - Dec’20, Mumbai'
 
 • Wrote Articles on Social Media Marketing and Affiliate Marketing.
 
@@ -59,6 +60,8 @@ ITEM_2 'Content Writer and Social Media Analyst @ Singh John' 'Jul’20 - Dec’
 • Backlinks, Keyword Research in Social Media Marketing.
 
 • Letter of Recommendation (LOR): https://raw.githubusercontent.com/thefirstrayofsun/Achievements-Certificates/main/LOR-SinghJohn.jpeg
+
+ITEM_END
 
 # Work Samples
 

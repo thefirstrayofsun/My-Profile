@@ -1,13 +1,14 @@
 # My Portfolio
 
 
-I am a proactive digital marketing enthusiast, with reliable command over SEO and Keyword Analysis, well equipped with the domains of social media, content writing and business communication. I am keen to understand customer behavior and plan marketing strategies for growing firms. I have sufficient knowledge of excel, presentations, and a strong vocabulary and can handle tense client situations with patience. My past experience has given me a rousing understanding of various marketing channels, commerce platforms, marketing approaches and leading campaigns, deciding on strategies, next posts and making strategies with teams.
+I am a proactive digital marketing enthusiast, with reliable command over SEO and Keyword Analysis, well equipped with the domains of social media, content writing and business communication. I am keen to understand customer behavior and plan marketing strategies for growing firms. I have sufficient knowledge in excel, presentations, and a strong vocabulary and can handle tense client situations with patience. My past experience has given me a rousing understanding of various marketing channels, commerce platforms, marketing approaches and leading campaigns, deciding on strategies, next posts and making strategies with teams.
 
 # Skills
 
 •	SEO  • Article/Blog Writing  • Proof Reading  • Digital Marketing  • Social Media Management  •	Creative Writing  •	Technical Writing  •	Shopify Content Writing  •	Keyword Analysis  • Microsoft Excel  • PowerPoint Presentations  • MS Word
 # 
 # Work Experience
+
 # Digital Marketing Intern @ Western Oranges
 
 Mar’22-Apr’22, Online
